@@ -4,3 +4,5 @@ CREDIT:
 
 Pasta-salad - Allreicpes
 https://www.allrecipes.com/recipe/176650/greek-pasta-salad/
+
+From this project I solidified my understanding of html
