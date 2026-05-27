@@ -1,8 +1,26 @@
-.title.homepage {
-background-color: #88c8fc;
+.title {
 padding: 20px;
 margin: 0px;
-border: 5px solid #184e7a;
+}
+
+.title.homepage {
+    background-color: #88c8fc;
+    border: 5px solid #184e7a;
+}
+
+.title.pasta {
+    background-color: antiquewhite;
+    border: 5px solid #32a166;
+}
+
+.title.yoghurt {
+    background-color: whitesmoke;
+    border: 5px solid #f1e64e;
+}
+
+.title.falafel {
+    background-color: rgb(174, 139, 108);
+    border: 5px solid #a0d392;
 }
 
 .list {
@@ -31,3 +49,4 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     margin-top: 100px;
     border: 5px solid rgba(113, 125, 158, 0.886);
 }
+
